@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Endometriosis Information Website
+
+After struggling with Endometriosis myself for over half of my life and waiting over 9 years for a diagnosis, I understand the difficulty to access a wide range of information on the condition and medical options. So I wanted to compile as much information as possible into one website for other people to access. 
+I am not a medical expert and therefore make no medical claims. The site is purely meant to direct others to the information available across the internet. 
+
+If you have any suggestions for what you think should also be added to this project, please contact me. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
