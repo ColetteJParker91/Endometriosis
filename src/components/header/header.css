@@ -1,12 +1,26 @@
-header {
-  height: 100vh;
-  padding-top: 3rem;
+.container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 4rem;
   overflow: hidden;
 }
 
-.header_container {
-  text-align: left;
-  height: 100%;
-  position: relative;
-  padding-left: 10rem;
+.container-header-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 4rem;
+}
+
+.header_text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header-pic {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 5rem;
+  padding-left: 3rem;
 }
