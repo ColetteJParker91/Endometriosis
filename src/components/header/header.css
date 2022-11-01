@@ -26,13 +26,13 @@
   width: 25rem;
   height: 25rem;
   border-radius: 4rem;
-  padding-left: 3rem;
+  padding-left: 2rem;
 }
 
 h1 {
-    color: var(--color-bg);
+  color: var(--color-bg);
 }
 
-h4{
-   color: var(--color-bg); 
+h4 {
+  color: var(--color-bg);
 }
