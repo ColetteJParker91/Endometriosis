@@ -10,17 +10,29 @@
   flex-direction: row;
   justify-content: space-between;
   padding-top: 4rem;
+  background: var(--color-light);
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-.header_text {
+.container-header-text {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  text-align: center;
+  padding-top: 6rem;
 }
 
 .header-pic {
   width: 25rem;
   height: 25rem;
-  border-radius: 5rem;
+  border-radius: 4rem;
   padding-left: 3rem;
+}
+
+h1 {
+    color: var(--color-bg);
+}
+
+h4{
+   color: var(--color-bg); 
 }

@@ -6,12 +6,12 @@ const Header = () => {
   return (
     <header className="container">
       <div className="container-header-content">
-        <div className="header-text">
-          <h2>Endometriosis Information</h2>
-          <h5>
+        <div className="container-header-text">
+          <h1>Endometriosis Information</h1>
+          <h4>
             Here you will find information available about Endometriosis
             compiled into one easy and simple website.
-          </h5>
+          </h4>
         </div>
         <div className="header-pic">
           <img src={HEADER} alt="womens reproductive system image" />
