@@ -1,12 +1,13 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Nav from "./components/nav/Nav.jsx";
+import Header from "./components/header/Header.jsx";
 
 export const App = () => {
   return (
     <>
       <Header />
       <Nav />
-      <Symptoms />
+      {/* <Symptoms />
       <Treatment />
       <Surgery />
       <Pain />
@@ -14,7 +15,7 @@ export const App = () => {
       <Info />
       <Research />
       <Support />
-      <Footer />
+      <Footer />  */}
     </>
   );
 };
