@@ -36,8 +36,8 @@ const Symptoms = () => {
         <article className="symptoms_details">
           <VscDebugBreakpointLog className="symptoms_details-icon" />
           <h3>
-            Nausea, bloating, constipation, diarrhoea or blood in your urine or bowel
-            movements during your period
+            Nausea, bloating, constipation, diarrhoea or blood in your urine or
+            bowel movements during your period
           </h3>
         </article>
         <article className="symptoms_details">
@@ -58,6 +58,13 @@ const Symptoms = () => {
           <VscDebugBreakpointLog className="symptoms_details-icon" />
           <h3>Loss of dark blood or clots before your period</h3>
         </article>
+      </div>
+      <div className="symptoms-disclosure">
+        <h5>
+          Each of the symptoms mentioned may be caused by other conditions and
+          not necessarily be Endometriosis symptoms. It is important to
+          therefore seek medical advice to clarify the symptoms cause.
+        </h5>
       </div>
     </section>
   );
