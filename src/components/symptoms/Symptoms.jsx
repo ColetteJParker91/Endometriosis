@@ -4,9 +4,9 @@ import { VscDebugBreakpointLog } from "react-icons/vsc";
 
 const Symptoms = () => {
   return (
-    <section id="symptoms">
-      <h2>Symptoms of Endometriosis</h2>
-      <div className="container symptoms-container">
+    <section id="symptoms" className="container">
+      <div className="container-symptoms-container">
+        <h2>Symptoms of Endometriosis</h2>
         <article className="symptoms_details">
           <VscDebugBreakpointLog className="symptoms_details-icon" />
           <h3>

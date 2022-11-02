@@ -1,14 +1,15 @@
 import "./App.css";
 import Nav from "./components/nav/Nav.jsx";
 import Header from "./components/header/Header.jsx";
+import Symptoms from "./components/symptoms/Symptoms";
 
 export const App = () => {
   return (
     <>
       <Header />
       <Nav />
-      {/* <Symptoms />
-      <Treatment />
+      <Symptoms />
+      {/*<Treatment />
       <Surgery />
       <Pain />
       <Specialist />
